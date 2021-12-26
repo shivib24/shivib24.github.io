@@ -27,7 +27,7 @@ This site is for my practice so I am gonna say what's on my mind here.
 <hr>
 <h2 id="img">Image insertion</h2>
 
-<img src="C:\Users\2071tu\OneDrive\Pictures\BeautifulNature.jpg" alt="BeautifulNature.jpg" title="New York City" width="60%"/>
+<img src="BeautifulNature.jpg" alt="BeautifulNature.jpg" title="New York City" width="60%"/>
 
 <img src="https://th.bing.com/th/id/OIP.IAJz63CJ916EfSCvaOo0-wHaE7?pid=ImgDet&w=6004&h=3997&rs=1" height="400" width="600"/>
 
